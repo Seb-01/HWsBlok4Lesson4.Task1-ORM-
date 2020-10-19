@@ -1,0 +1,32 @@
+.header {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.phone {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sort-block .sort-item {
+    padding-right: 20px;
+}
+
+.price {
+    font-weight: bold;
+}
+
+/*.content {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between
+
+}
+
+.phone {
+    width: 300px;
+
+}
+*/
